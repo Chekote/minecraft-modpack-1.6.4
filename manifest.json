@@ -1,0 +1,149 @@
+{
+  "minecraft": {
+    "version": "1.6.4",
+    "modLoaders": [
+      {
+        "id": "forge-9.11.1.1345",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Chekote 1.6.4",
+  "version": "0.15.0",
+  "author": "therealchekote",
+  "files": [
+    {
+      "projectID": 60265,
+      "fileID": 779999,
+      "required": true
+    },
+    {
+      "projectID": 61811,
+      "fileID": 764912,
+      "required": true
+    },
+    {
+      "projectID": 51195,
+      "fileID": 775935,
+      "required": true
+    },
+    {
+      "projectID": 67504,
+      "fileID": 785780,
+      "required": true
+    },
+    {
+      "projectID": 229260,
+      "fileID": 2232971,
+      "required": true
+    },
+    {
+      "projectID": 72744,
+      "fileID": 2205867,
+      "required": true
+    },
+    {
+      "projectID": 229060,
+      "fileID": 2232034,
+      "required": true
+    },
+    {
+      "projectID": 229073,
+      "fileID": 2232166,
+      "required": true
+    },
+    {
+      "projectID": 69163,
+      "fileID": 789826,
+      "required": true
+    },
+    {
+      "projectID": 64744,
+      "fileID": 783470,
+      "required": true
+    },
+    {
+      "projectID": 59433,
+      "fileID": 2307077,
+      "required": true
+    },
+    {
+      "projectID": 59856,
+      "fileID": 720249,
+      "required": true
+    },
+    {
+      "projectID": 62121,
+      "fileID": 748987,
+      "required": true
+    },
+    {
+      "projectID": 62929,
+      "fileID": 2201677,
+      "required": true
+    },
+    {
+      "projectID": 228027,
+      "fileID": 2229127,
+      "required": true
+    },
+    {
+      "projectID": 228362,
+      "fileID": 2229576,
+      "required": true
+    },
+    {
+      "projectID": 224599,
+      "fileID": 2216722,
+      "required": true
+    },
+    {
+      "projectID": 59218,
+      "fileID": 2218805,
+      "required": true
+    },
+    {
+      "projectID": 59769,
+      "fileID": 717778,
+      "required": true
+    },
+    {
+      "projectID": 74072,
+      "fileID": 2201640,
+      "required": true
+    },
+    {
+      "projectID": 60028,
+      "fileID": 719282,
+      "required": true
+    },
+    {
+      "projectID": 229076,
+      "fileID": 2232178,
+      "required": true
+    },
+    {
+      "projectID": 75598,
+      "fileID": 785694,
+      "required": true
+    },
+    {
+      "projectID": 61269,
+      "fileID": 2209735,
+      "required": true
+    },
+    {
+      "projectID": 69162,
+      "fileID": 785608,
+      "required": true
+    },
+    {
+      "projectID": 63352,
+      "fileID": 2202025,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}

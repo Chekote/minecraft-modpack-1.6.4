@@ -1,0 +1,8 @@
+# Configuration file
+
+version_check_tracker {
+    S:Treecapitator=<html>
+    S:bspkrsCore=<html>
+}
+
+
